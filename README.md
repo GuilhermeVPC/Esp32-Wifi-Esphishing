@@ -30,6 +30,12 @@ SPIFFS.h
 Configure suas credenciais de Wi-Fi no código.
 Carregue o código no seu ESP32.
 
+Upload de Dados usando o Plugin Esp32 sketch data upload
+Para fazer o upload dos dados do sketch, siga os passos abaixo:
+
+No Arduino IDE, vá para Ferramentas > ESP32 Sketch Data Upload.
+Espere o upload dos dados ser concluído.
+
 Uso
 Ligue o ESP32 e conecte-se ao ponto de acesso Wi-Fi criado pelo dispositivo.
 Acesse a página de login através do navegador.
