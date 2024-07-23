@@ -18,9 +18,13 @@ Abra o projeto na IDE do Arduino.
 Instale as seguintes bibliotecas:
 
 WiFi.h
+
 WebServer.h
+
 DNSServer.h
+
 FS.h
+
 SPIFFS.h
 
 Configure suas credenciais de Wi-Fi no código.
