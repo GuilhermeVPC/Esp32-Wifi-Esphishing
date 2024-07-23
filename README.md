@@ -1,4 +1,4 @@
-Projeto de Phishing com ESP32
+Projeto de Phishing com ESP32 do (Google e Instagram)
 
 Visão Geral
 O Projeto de Phishing com ESP32 é uma ferramenta educacional projetada para demonstrar como ataques de phishing podem ser conduzidos usando um microcontrolador ESP32. Este projeto visa aumentar a conscientização sobre ameaças de segurança cibernética e educar os usuários sobre a importância de proteger suas redes e dispositivos.
@@ -47,4 +47,10 @@ Para ver as senhas salvas, adicione /list na barra de endereço do navegador par
 
 Aviso Legal
 Este projeto é estritamente para fins educacionais. O uso desta ferramenta para fins maliciosos ou ilegais é estritamente proibido. O autor não se responsabiliza por qualquer uso inadequado deste projeto.
+
+Feito/Adaptado Para o Esp32 Por GuilhermeVPC
+
+Creditos
+
+Codigo Base Feito Por Penegui
 
